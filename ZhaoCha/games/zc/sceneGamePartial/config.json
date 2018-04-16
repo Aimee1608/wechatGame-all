@@ -1,0 +1,77 @@
+{
+  "components": {
+    "list": {
+      "commonbackground": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "score": {
+        "type": "ZCGameScore",
+        "props": {
+          "x": "8%",
+          "y": "16%",
+          "z": 0
+        }
+      },
+      "GameContainer": {
+        "type": "ZCGamePartialContainer",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0,
+          "endscene": "sceneUGCGameOver"
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "ZCBackScene": {
+        "type": "ZCUGCPlayBackScene",
+        "props": {
+          "x": "8%",
+          "y": "92%",
+          "z": 1
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      },
+      "ZCGuideStatus": {
+        "type": "ZCGuideStatus",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10,
+          "dialog": {
+            "direction": "up",
+            "x": 0,
+            "y": -150,
+            "scale_x":1.3
+          },
+          "times":4850,
+          "autoHide":true,
+          "text": "在下图中找到它的位置",
+          "position": "LearnPlayStage"
+        }
+      }
+    }
+  }
+}

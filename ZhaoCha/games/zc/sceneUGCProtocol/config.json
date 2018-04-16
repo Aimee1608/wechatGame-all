@@ -1,0 +1,31 @@
+{
+  "components": {
+    "list": {
+      "ZCUGCProtocol": {
+        "type": "ZCUGCProtocol",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCSelectPic"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

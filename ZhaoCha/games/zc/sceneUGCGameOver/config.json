@@ -1,0 +1,94 @@
+{
+  "components": {
+    "list": {
+      "ZCPVPGameOverbg": {
+        "type": "ZCPVPGameOverbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCGameOverAotian": {
+        "type": "ZCUGCGameOverAotian",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": "1"
+        }
+      },
+      "ZCUGCGameOverRank": {
+        "type": "ZCUGCGameOverRank",
+        "props": {
+          "x": "50%",
+          "y": "85%",
+          "z": "1",
+          "text":"首次通关排行榜",
+          "type":"group"
+        }
+      },
+      "ZCUGCGameOverShare": {
+        "type": "ZCUGCGameOverShare",
+        "props": {
+          "x": "40%",
+          "y": "92%",
+          "z": 1,
+          "text": "发给好友玩"
+        }
+      },
+      "ZCUGCGameOverMake": {
+        "type": "ZCUGCGameOverMake",
+        "props": {
+          "x": "75%",
+          "y": "92%",
+          "z": 1,
+          "text":"我也做一个"
+        }
+      },
+      "ZCUGCGameOverShareFail": {
+        "type": "ZCUGCGameOverShareFail",
+        "props": {
+          "x": "30%",
+          "y": "92%",
+          "z": 1,
+          "text": "发给好友玩"
+        }
+      },
+      "ZCUGCGameOverMakeFail": {
+        "type": "ZCUGCGameOverMakeFail",
+        "props": {
+          "x": "58%",
+          "y": "92%",
+          "z": 1,
+          "text": "我也做一个"
+        }
+      },
+      "ZCUGCGameOverPlayAgain": {
+        "type": "ZCUGCGameOverPlayAgain",
+        "props": {
+          "x": "86%",
+          "y": "92%",
+          "z": 1,
+          "text": "再玩一次"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

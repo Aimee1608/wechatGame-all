@@ -1,0 +1,57 @@
+{
+  "components": {
+    "list": {
+      "ZCPVPGameOverbg": {
+        "type": "ZCPVPGameOverbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCSingleChallengeGameOver": {
+        "type": "ZCSingleChallengeGameOver",
+        "props": {
+          "x": "50%",
+          "y": "15%",
+          "z": "1"
+        }
+      },
+      "ZCSingleChallengePalyAgain": {
+        "type": "ZCSingleChallengePalyAgain",
+        "props": {
+          "x": "40%",
+          "y": "92%",
+          "z": "1",
+          "text": "再玩一次"
+        }
+      },
+      "ZCSingleChallengePalyNext": {
+        "type": "ZCSingleChallengePalyNext",
+        "props": {
+          "x": "75%",
+          "y": "92%",
+          "z": "1",
+          "text": "下一局"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneSingleChallenge"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

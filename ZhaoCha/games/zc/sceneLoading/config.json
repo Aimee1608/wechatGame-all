@@ -1,0 +1,40 @@
+{
+	"components":{
+		"list":{
+			"commonbackground":{
+				"type":"ZCCommonBg",
+				"props":{
+					"x":"50%",
+					"y":"50%",
+					"z":0
+				}
+			},
+			"loadingbackground":{
+				"type":"ZCLoadingBg",
+				"props":{
+					"x":"50%",
+					"y":"50%",
+					"z":0
+				}
+			},
+			"loadingbar":{
+				"type":"ZCLoadingBar",
+				"props":{
+					"x":"50%",
+					"y":"68%",
+					"z":1,
+					"pvpscene":"sceneGame",
+					"singlescene":"sceneGamePartial"
+				}
+			},
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+		}			
+	}
+}

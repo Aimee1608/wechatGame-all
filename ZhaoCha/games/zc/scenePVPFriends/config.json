@@ -1,0 +1,176 @@
+{
+  "components": {
+    "list": {
+      "ZCPVPFriendsbg": {
+        "type": "ZCPVPFriendsbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCPVPFriendsPannel": {
+        "type": "ZCPVPFriendsPannel",
+        "props": {
+          "x": "50%",
+          "y": "42%",
+          "z": 1
+        }
+      },
+      "ZCPVPFriendsPic": {
+        "type": "ZCPVPFriendsPic",
+        "props": {
+          "x": "50%",
+          "y": "31%",
+          "z": 1,
+          "text": "正在点燃炸弹引线"
+        }
+      },
+      "ZCPVPFriendsCharacter1": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "32%",
+          "y": "48%",
+          "z": 1,
+          "position": 1
+        }
+      },
+      "ZCPVPStrangerPlayerName1": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "32%",
+          "y": "55%",
+          "z": 1,
+          "position": 1
+        }
+      },
+      "ZCPVPFriendsCharacter2": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "68%",
+          "y": "48%",
+          "z": 1,
+          "position": 2
+        }
+      },
+      "ZCPVPFriendsKickPlayer2": {
+        "type": "ZCPVPFriendsKickPlayer",
+        "props": {
+          "x": "76%",
+          "y": "44%",
+          "z": 2,
+          "position": 2
+        }
+      },
+      "ZCPVPStrangerPlayerName2": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "68%",
+          "y": "55%",
+          "z": 1,
+          "position": 2
+        }
+      },
+      "ZCPVPFriendsCharacter3": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "32%",
+          "y": "64%",
+          "z": 1,
+          "position": 3
+        }
+      },
+      "ZCPVPFriendsKickPlayer3": {
+        "type": "ZCPVPFriendsKickPlayer",
+        "props": {
+          "x": "40%",
+          "y": "60%",
+          "z": 2,
+          "position": 3
+        }
+      },
+      "ZCPVPStrangerPlayerName3": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "32%",
+          "y": "71%",
+          "z": 1,
+          "position": 3
+        }
+      },
+      "ZCPVPFriendsCharacter4": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "68%",
+          "y": "64%",
+          "z": 1,
+          "position": 4
+        }
+      },
+      "ZCPVPFriendsKickPlayer4": {
+        "type": "ZCPVPFriendsKickPlayer",
+        "props": {
+          "x": "76%",
+          "y": "60%",
+          "z": 2,
+          "position": 4
+        }
+      },
+      "ZCPVPStrangerPlayerName4": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "68%",
+          "y": "71%",
+          "z": 1,
+          "position": 4
+        }
+      },
+      "ZCEmotion": {
+        "type": "ZCEmotion",
+        "props": {
+          "x": "81%",
+          "y": "71%",
+          "z": 3,
+          "SceneID": 1
+        }
+      },
+      "ZCPVPFriendsStartGame": {
+        "type": "ZCPVPFriendsStartGame",
+        "props": {
+          "x": "50%",
+          "y": "81%",
+          "z": 1,
+          "text": "开始游戏",
+          "tips": "等待房主开始..."
+        }
+      },
+      "ZCPVPFriendsShare": {
+        "type": "ZCPVPFriendsShare",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 1,
+          "text": "邀请好友"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "quitRoom": true,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "components": {
+    "list": {
+      "commonbackground": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCMyAvatar": {
+        "type": "ZCMyAvatar",
+        "props": {
+          "x": "14%",
+          "y": "6%",
+          "z": 1,
+          "size": 100
+        }
+      },
+      "ZCUGCMaking": {
+        "type": "ZCUGCMaking",
+        "props": {
+          "x": "75%",
+          "y": "94%",
+          "z": 1,
+          "text": "制作关卡"
+        }
+      },
+      "ZCUGCPlayDemo": {
+        "type": "ZCUGCPlayDemo",
+        "props": {
+          "x": "40%",
+          "y": "94%",
+          "z": 2,
+          "text": "玩一玩"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "94%",
+          "z": 1,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "portalcore": {
+        "type": "ZCUGCPortalCore",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "dialog": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"T_canying","_duration":0.4,"sample":30,"curveData":{"paths":{"tuowei2":{"comps":{"cc.Sprite":{}},"props":{"opacity":[{"frame":0,"value":0},{"frame":0.03333333333333333,"value":150},{"frame":0.4,"value":0}]}}},"props":{}}}

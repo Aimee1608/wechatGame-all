@@ -1,0 +1,75 @@
+{
+  "components": {
+    "list": {
+      "commonbackground": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "score": {
+        "type": "ZCGameScore",
+        "props": {
+          "x": "8%",
+          "y": "16%",
+          "z": 1
+        }
+      },
+      "GameContainer": {
+        "type": "ZCGameChallengeContainer",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "ZCWXDailyChallengeShare": {
+        "type": "ZCWXDailyChallengeShare",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCDailyChallengeTips": {
+        "type": "ZCDailyChallengeTips",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "8%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneDailyChallenge"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

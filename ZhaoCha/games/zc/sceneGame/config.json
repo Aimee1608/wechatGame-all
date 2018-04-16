@@ -1,0 +1,87 @@
+{
+  "components": {
+    "list": {
+      "commonbackground": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "score": {
+        "type": "ZCGameScore",
+        "props": {
+          "x": "8%",
+          "y": "17%",
+          "z": 0
+        }
+      },
+      "GameContainer": {
+        "type": "ZCGameContainer",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0,
+          "endscene": "scenePVPGameOver"
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "avatars": {
+        "type": "ZCGameAvatar",
+        "props": {
+          "x": "8%",
+          "y": "55%",
+          "z": 8
+        }
+      },
+      "Bomb": {
+        "type": "ZCGameBomb",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      },
+	  "ZCCommonAvatar": {
+		  "type": "ZCCommonAvatar",
+		  "props": {
+			  "x": "36%",
+			  "y": "50%",
+			  "z": 7,
+			  "diameter": 90,
+			  "pos": 1,
+			  "visible": false
+		  }
+	  },
+	  "ZCEmotion": {
+		  "type": "ZCEmotion",
+		  "props": {
+			  "x": "8%",
+			  "y": "90%",
+			  "z": 9,
+			  "SceneID": 2
+		  }
+	  }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "UIParams": {
+    "globalWidth": 720,
+    "globalHeight": 1280,
+    "maxPointers": 1
+  },
+  "scenes": {
+    "startScene": "sceneWelcome",
+    "list": [
+      "sceneWelcome",
+      "sceneSelectRule",
+      "scenePVPFriends",
+      "scenePVPStranger",
+      "sceneLoading",
+      "sceneGame",
+      "scenePVPGameOver",
+      "sceneUGCSelectPic",
+      "sceneUGCProtocol",
+      "sceneUGCMakeClip",
+      "sceneUGCMakeDiff",
+      "sceneUGCPreview",
+      "sceneStageSucess",
+      "sceneStageInfo",
+      "sceneUGCPortal",
+      "sceneUGCGameOver",
+      "sceneGamePartial",
+      "sceneSingleChallenge",
+      "sceneSingleChallengeGameOver",
+      "sceneGameDTDC",
+      "sceneDailyChallenge",
+      "sceneGameChallenge",
+      "sceneDailyChallengeGameOver"
+    ]
+  }
+}

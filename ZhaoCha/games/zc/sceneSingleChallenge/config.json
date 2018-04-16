@@ -1,0 +1,39 @@
+{
+  "components": {
+    "list": {
+      "ZCSingleChallengeBg": {
+        "type": "ZCSingleChallengeBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCSingleChallengeBarrier": {
+        "type": "ZCSingleChallengeBarrier",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },      
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

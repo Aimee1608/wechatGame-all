@@ -1,0 +1,68 @@
+{
+  "components": {
+    "list": {
+      "ZCUGCbg": {
+        "type": "ZCUGCbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCBanner": {
+        "type": "ZCUGCBanner",
+        "props": {
+          "x": "50%",
+          "y": "4%",
+          "z": 2,
+          "text": "选择图片区域",
+          "tips": "1/3"
+        }
+      },
+      "ZCUGCCurrentPicPannel": {
+        "type": "ZCUGCCurrentPicPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1,
+          "type": "mine",
+          "clip": true
+        }
+      },
+      "ZCUGCClipPannel": {
+        "type": "ZCUGCClipPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1
+        }
+      },
+      "ZCUGCStartClip": {
+        "type": "ZCUGCStartClip",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 1,
+          "text": "下一步"
+        }
+      },
+      "ZCUGCBackScene": {
+        "type": "ZCUGCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCSelectPic"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

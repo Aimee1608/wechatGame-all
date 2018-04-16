@@ -1,0 +1,50 @@
+{
+  "components": {
+    "list": {
+      "ZCCommonBg": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCStageSucessPannel": {
+        "type": "ZCUGCStageSucessPannel",
+        "props": {
+          "x": "50%",
+          "y": "40%",
+          "z": 1,
+          "text": "恭喜你成功生成关卡"
+        }
+      },
+      "ZCUGCCreateStageShare": {
+        "type": "ZCUGCCreateStageShare",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 1,
+          "type":"new",
+          "text": "发给好友玩"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCPortal"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

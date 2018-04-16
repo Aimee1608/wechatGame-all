@@ -1,0 +1,121 @@
+{
+  "components": {
+    "list": {
+      "ZCUGCbg": {
+        "type": "ZCUGCbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCBanner": {
+        "type": "ZCUGCBanner",
+        "props": {
+          "x": "50%",
+          "y": "4%",
+          "z": 1,
+          "text": "关卡预览"
+        }
+      },
+      "ZCUGCProviewTitle": {
+        "type": "ZCUGCProviewTitle",
+        "props": {
+          "x": "50%",
+          "y": "15%",
+          "z": 1
+        }
+      },
+      "ZCUGCSlider": {
+        "type": "ZCUGCSlider",
+        "props": {
+          "x": "50%",
+          "y": "40%",
+          "z": 0,
+          "report": true,
+          "type": "mine"
+        }
+      },
+      "ZCUGCDiffPannel1": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "20%",
+          "y": "69%",
+          "z": 1,
+          "position": 1
+        }
+      },
+      "ZCUGCDiffPannel2": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "50%",
+          "y": "69%",
+          "z": 1,
+          "position": 2
+        }
+      },
+      "ZCUGCDiffPannel3": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "80%",
+          "y": "69%",
+          "z": 1,
+          "position": 3
+        }
+      },
+      "ZCUGCAllowAllPlay": {
+        "type": "ZCUGCAllowAllPlay",
+        "props": {
+          "x": "50%",
+          "y": "83%",
+          "z": 1,
+          "text":"所有人可玩"
+        }
+      },
+      "ZCUGCPlayMyDemo": {
+        "type": "ZCUGCPlayMyDemo",
+        "props": {
+          "x": "40%",
+          "y": "92%",
+          "z": 1,
+          "text": "试玩关卡"
+        }
+      },
+      "ZCUGCCreateStage": {
+        "type": "ZCUGCCreateStage",
+        "props": {
+          "x": "75%",
+          "y": "92%",
+          "z": 1,
+          "text": "生成关卡"
+        }
+      },
+      "ZCLoading": {
+        "type": "ZCLoading",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 5,
+          "text":"拼命上传中..."
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCMakeDiff"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

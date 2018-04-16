@@ -1,0 +1,52 @@
+{
+  "components": {
+    "list": {
+      "commonbackground": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "score": {
+        "type": "ZCGameScore",
+        "props": {
+          "x": "8%",
+          "y": "16%",
+          "z": 0
+        }
+      },
+      "GameContainer": {
+        "type": "ZCGameDTDCContainer",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0,
+          "endscene": "sceneUGCGameOver"
+        },
+        "UIPos": [
+          {
+            "x": "50%",
+            "y": "50%"
+          }
+        ]
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "8%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneSingleChallenge"
+        }
+      }
+    }
+  }
+}

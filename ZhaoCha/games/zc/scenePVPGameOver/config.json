@@ -1,0 +1,75 @@
+{
+  "components": {
+    "list": {
+      "ZCPVPGameOverbg": {
+        "type": "ZCPVPGameOverbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCPVPGameOverAotian": {
+        "type": "ZCPVPGameOverAotian",
+        "props": {
+          "x": "50%",
+          "y": "15%",
+          "z": 1
+        }
+      },
+      "ZCPVPGameOverPannel": {
+        "type": "ZCPVPGameOverPannel",
+        "props": {
+          "x": "50%",
+          "y": "44%",
+          "z": 1
+        }
+      },
+      "ZCPVPGameOverShare": {
+        "type": "ZCPVPGameOverShare",
+        "props": {
+          "x": "40%",
+          "y": "92%",
+          "z": 1,
+          "text": "分享"
+        }
+      },
+      "ZCPVPGameOverPlayAgain": {
+        "type": "ZCPVPGameOverPlayAgain",
+        "props": {
+          "x": "77%",
+          "y": "92%",
+          "z": 1,
+          "text": "再来一局"
+        }
+      },
+      "ZCEmotion": {
+        "type": "ZCEmotion",
+        "props": {
+          "x": "93%",
+          "y": "81%",
+          "z": 1,
+          "SceneID": 3
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "quitRoom": true,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

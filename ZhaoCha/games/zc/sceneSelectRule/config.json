@@ -1,0 +1,130 @@
+{
+  "components": {
+    "list": {
+      "ZCSelectRulebg": {
+        "type": "ZCSelectRulebg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCMyAvatar": {
+        "type": "ZCMyAvatar",
+        "props": {
+          "x": "9%",
+          "y": "4%",
+          "z": 1,
+          "size": 75
+        }
+      },
+      "ZCSelectRuleDesc": {
+        "type": "ZCSelectRuleDesc",
+        "props": {
+          "x": "9%",
+          "y": "10%",
+          "z": 1
+        }
+      },
+      "ZCSelectRuleScoreShengChang": {
+        "type": "ZCSelectRuleScore",
+        "props": {
+          "x": "28%",
+          "y": "4%",
+          "z": 1,
+          "type": "shengchang"
+        }
+      },
+      "ZCSelectRuleScoreMeili": {
+        "type": "ZCSelectRuleScore",
+        "props": {
+          "x": "52%",
+          "y": "4%",
+          "z": 1,
+          "type": "meili"
+        }
+      },
+      "ZCSelectRuleScoreWenMing": {
+        "type": "ZCSelectRuleScore",
+        "props": {
+          "x": "76%",
+          "y": "4%",
+          "z": 1,
+          "type": "wenming"
+        }
+      },
+      "ZCSelectRuleShengChang": {
+        "type": "ZCSelectRuleShengChang",
+        "props": {
+          "x": "21%",
+          "y": "4%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleMeiLi": {
+        "type": "ZCSelectRuleMeiLi",
+        "props": {
+          "x": "45%",
+          "y": "4%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleWenMing": {
+        "type": "ZCSelectRuleWenMing",
+        "props": {
+          "x": "69%",
+          "y": "4%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleJumpPVP": {
+        "type": "ZCSelectRuleJumpPVP",
+        "props": {
+          "x": "38%",
+          "y": "40%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleJumpStrange": {
+        "type": "ZCSelectRuleJumpStrange",
+        "props": {
+          "x": "76%",
+          "y": 532,
+          "z": 2
+        }
+      },
+      "ZCSelectRuleJumpUDC": {
+        "type": "ZCSelectRuleJumpUDC",
+        "props": {
+          "x": "50%",
+          "y": "61%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleJumpSingle": {
+        "type": "ZCSelectRuleJumpSingle",
+        "props": {
+          "x": "50%",
+          "y": "75%",
+          "z": 2
+        }
+      },
+      "ZCSelectRuleJumpDaily": {
+        "type": "ZCSelectRuleJumpDaily",
+        "props": {
+          "x": "50%",
+          "y": "89%",
+          "z": 2
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

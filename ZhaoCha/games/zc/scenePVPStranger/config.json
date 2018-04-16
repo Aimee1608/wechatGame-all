@@ -1,0 +1,122 @@
+{
+  "components": {
+    "list": {
+      "ZCCommonBg": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCPVPStrangerBanner": {
+        "type": "ZCPVPStrangerBanner",
+        "props": {
+          "x": "50%",
+          "y": "12%",
+          "z": 1
+        }
+      },
+      "ZCPVPStrangerRadar": {
+        "type": "ZCPVPStrangerRadar",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1,
+          "text": "对战"
+        }
+      },
+      "ZCPVPStrangerCharacter1": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "19%",
+          "y": "37%",
+          "z": 1,
+          "position": 2,
+          "backup": 1
+        }
+      },
+      "ZCPVPStrangerCharacter2": {
+        "type": "ZCAvatar",
+        "props": {
+          "x": "81%",
+          "y": "37%",
+          "z": 1,
+          "position": 3,
+          "backup": 1
+        }
+      },
+      "ZCMyAvatar": {
+        "type": "ZCMyAvatar",
+        "props": {
+          "x": "50%",
+          "y": "71%",
+          "z": 1,
+          "size": 120
+        }
+      },
+      "ZCPVPStrangerPlayerName1": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "19%",
+          "y": "27%",
+          "z": 1,
+          "pannel": true,
+          "text": "未匹配",
+          "position": 2,
+          "backup": 1
+        }
+      },
+      "ZCPVPStrangerPlayerName2": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "81%",
+          "y": "27%",
+          "z": 1,
+          "pannel": true,
+          "text": "未匹配",
+          "position": 3,
+          "backup": 1
+        }
+      },
+      "ZCPVPStrangerPlayerName3": {
+        "type": "ZCPVPStrangerPlayerName",
+        "props": {
+          "x": "50%",
+          "y": "81%",
+          "z": 1,
+          "pannel": true,
+          "text": "未匹配",
+          "position": 0,
+          "backup": 1
+        }
+      },
+      "ZCPVPStrangerTips": {
+        "type": "ZCPVPStrangerTips",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 50
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "quitMatch": true,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

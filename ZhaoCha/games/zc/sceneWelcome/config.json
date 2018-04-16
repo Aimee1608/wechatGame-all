@@ -1,0 +1,22 @@
+{
+  "components": {
+    "list": {
+      "ZCWelcomeBg": {
+        "type": "ZCWelcomeBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

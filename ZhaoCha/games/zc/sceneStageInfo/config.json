@@ -1,0 +1,68 @@
+{
+  "components": {
+    "list": {
+      "ZCCommonBg": {
+        "type": "ZCCommonBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCStageInfoRibbon": {
+        "type": "ZCUGCStageInfoRibbon",
+        "props": {
+          "x": "50%",
+          "y": "12%",
+          "z": 1
+        }
+      },
+      "ZCUGCSlider": {
+        "type": "ZCUGCSlider",
+        "props": {
+          "x": "50%",
+          "y": "40%",
+          "z": 1,
+          "type": "other"
+        }
+      },
+      "ZCUGCGameOverRank": {
+        "type": "ZCUGCGameOverRank",
+        "props": {
+          "x": "50%",
+          "y": "88%",
+          "z": "1",
+          "text": "首次通关排行榜",
+          "type":"all"
+        }
+      },
+      "ZCUGCCreateStageShare": {
+        "type": "ZCUGCCreateStageShare",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 1,
+          "type": "mine",
+          "text": "发给好友玩"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCPortal"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

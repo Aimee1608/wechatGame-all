@@ -1,0 +1,48 @@
+{
+  "components": {
+    "list": {
+      "ZCUGCbg": {
+        "type": "ZCUGCbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0,
+          "type":"new",
+          "clearPic":true,
+          "tips1": "上传图片,即表示您已同意",
+          "tips2": "大家来找茬腾讯使用协议",
+          "tips3": "请勿上传色情、反动等违法照片"
+        }
+      },
+      "ZCUGCSelectPic": {
+        "type": "ZCUGCSelectPic",
+        "props": {
+          "x": "50%",
+          "y": "70%",
+          "z": 0,
+          "text":"上传图片",
+          "tips1": "你可以选择",
+          "tips2": "3",
+          "tips3": "张图片制作成一个关卡"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCPortal"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

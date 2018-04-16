@@ -1,0 +1,55 @@
+{
+  "components": {
+    "list": {
+      "ZCDailyChallengeBg": {
+        "type": "ZCDailyChallengeBg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCDailyChallengeSlider": {
+        "type": "ZCDailyChallengeSlider",
+        "props": {
+          "x": "50%",
+          "y": "45%",
+          "z": 1
+        }
+      },
+      "ZCDailyChallengeProgress": {
+        "type": "ZCDailyChallengeProgress",
+        "props": {
+          "x": "60%",
+          "y": "92%",
+          "z": 1
+        }
+      },
+      "ZCWXDailyChallengeShare": {
+        "type": "ZCWXDailyChallengeShare",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneSelectRule"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

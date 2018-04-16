@@ -1,0 +1,88 @@
+{
+  "components": {
+    "list": {
+      "ZCPVPGameOverbg": {
+        "type": "ZCPVPGameOverbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCDailyChallengeGameOver": {
+        "type": "ZCDailyChallengeGameOver",
+        "props": {
+          "x": "50%",
+          "y": "15%",
+          "z": "1"
+        }
+      },
+      "ZCDailyChallengeHelpList": {
+        "type": "ZCDailyChallengeHelpList",
+        "props": {
+          "x": "50%",
+          "y": "80%",
+          "z": "1"
+        }
+      },
+      "ZCDailyChallengeShare": {
+        "type": "ZCDailyChallengeShare",
+        "props": {
+          "x": "40%",
+          "y": "92%",
+          "z": 1,
+          "text": "分享"
+        }
+      },
+      "ZCWXDailyChallengeShare": {
+        "type": "ZCWXDailyChallengeShare",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCDailyChallengeShowDiff": {
+        "type": "ZCDailyChallengeShowDiff",
+        "props": {
+          "x": "75%",
+          "y": "92%",
+          "z": 1
+        }
+      },
+      "ZCDailyChallengeGetPrize": {
+        "type": "ZCDailyChallengeGetPrize",
+        "props": {
+          "x": "75%",
+          "y": "92%",
+          "z": 1
+        }
+      },
+      "ZCDailyChallengePrize": {
+        "type": "ZCDailyChallengePrize",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 1
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneDailyChallenge"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      }
+    }
+  }
+}

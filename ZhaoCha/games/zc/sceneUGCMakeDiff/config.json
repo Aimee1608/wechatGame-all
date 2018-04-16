@@ -1,0 +1,114 @@
+{
+  "components": {
+    "list": {
+      "ZCUGCbg": {
+        "type": "ZCUGCbg",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 0
+        }
+      },
+      "ZCUGCBanner": {
+        "type": "ZCUGCBanner",
+        "props": {
+          "x": "50%",
+          "y": "4%",
+          "z": 1,
+          "text": "选择局部茬点",
+          "tips": "1/3"
+        }
+      },
+      "ZCUGCCurrentPicPannel": {
+        "type": "ZCUGCCurrentPicPannel",
+        "props": {
+          "x": "50%",
+          "y": "36%",
+          "z": 1,
+          "type": "target",
+          "click": true,
+          "frame": true
+        }
+      },
+      "ZCUGCDiffPannel1": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "20%",
+          "y": "72%",
+          "z": 1,
+          "width": 550,
+          "height": 550,
+          "position": 1
+        }
+      },
+      "ZCUGCDiffPannel2": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "50%",
+          "y": "72%",
+          "z": 1,
+          "width": 550,
+          "height": 550,
+          "position": 2
+        }
+      },
+      "ZCUGCDiffPannel3": {
+        "type": "ZCUGCDiffPannel",
+        "props": {
+          "x": "80%",
+          "y": "72%",
+          "z": 1,
+          "width": 550,
+          "height": 550,
+          "position": 3
+        }
+      },
+      "ZCUGCStartDiff": {
+        "type": "ZCUGCStartDiff",
+        "props": {
+          "x": "50%",
+          "y": "92%",
+          "z": 1,
+          "text": "下一步"
+        }
+      },
+      "ZCBackScene": {
+        "type": "ZCBackScene",
+        "props": {
+          "x": "10%",
+          "y": "92%",
+          "z": 1,
+          "objscene": "sceneUGCMakeClip"
+        }
+      },
+      "ZCTipsPannel": {
+        "type": "ZCTipsPannel",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10
+        }
+      },
+      "ZCGuideStatus": {
+        "type": "ZCGuideStatus",
+        "props": {
+          "x": "50%",
+          "y": "50%",
+          "z": 10,
+          "hand": {
+            "x": 50,
+            "y": -75
+          },
+          "dialog": {
+            "direction": "up",
+            "x": -25,
+            "y": 100
+          },
+          "autoHide":true,
+          "text":"拖动绿圈，圈出茬点",
+          "position": "LearnCreateStage"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+		"resVersionCode":7,
+		"notice":"",
+		"checkType":0,
+		"resFiles":["201711291025releaseres.zip"],
+		"resMd5s":[
+			{"resFile":"1Kill.mp3",		"digest":"a04158021c7c730d829f096c4b187240",		"size":17762},
+			{"resFile":"2Kill.mp3",		"digest":"37288a73e02dd8da28a02ac887af8927",		"size":23279},
+			{"resFile":"6Kill.mp3",		"digest":"2a603eeb36d6ddfc9fccabe2d2d55f26",		"size":23697},
+			{"resFile":"7Kill.mp3",		"digest":"0c5d97c2e9805dc884f73fbcdad4ef1a",		"size":71399},
+			{"resFile":"Activity.png",		"digest":"ee7697e885e6b5954de9e95a8c94f020",		"size":9096},
+			{"resFile":"ActivityPic.png",		"digest":"d58b6293b8745fdf19476870859463a8",		"size":106366},
+			{"resFile":"alert.mp3",		"digest":"9a2fad4937749da2ed4480479199e850",		"size":11505},
+			{"resFile":"baseDie.mp3",		"digest":"30fff6d84fb90326fc3f62fae1acd062",		"size":23431},
+			{"resFile":"Battle.png",		"digest":"f030fd1dadb748f3182adeb4270499f6",		"size":224722},
+			{"resFile":"BattleUI.png",		"digest":"87031133d609276790464a7333c7b030",		"size":247317},
+			{"resFile":"BtnEff.mp3",		"digest":"afd2a373f524ad7e6abaeeee7c9f9026",		"size":2533},
+			{"resFile":"CountDownEff.mp3",		"digest":"d16e158e66627e6a07402944b2c5ac26",		"size":8384},
+			{"resFile":"enemy_2kill.mp3",		"digest":"42ed3feadaf0f9aa4b23face5e089216",		"size":28295},
+			{"resFile":"enemy_6kill.mp3",		"digest":"b172127f217aae931d77909a45da37f8",		"size":27668},
+			{"resFile":"enemy_7kill.mp3",		"digest":"5b1ab3c1f8dd5c4da8f59d1cfc213fd4",		"size":28713},
+			{"resFile":"flash01.png",		"digest":"d46dcfb85d22f8795eee0f943b7aaf5d",		"size":28880},
+			{"resFile":"GameBg.mp3",		"digest":"008941ce56f99a78c2ad57bc0906f513",		"size":201716},
+			{"resFile":"GameBg2.mp3",		"digest":"95f68e7c405c699930677f82775d39db",		"size":124215},
+			{"resFile":"guiji.png",		"digest":"b5f6cc8aeebe5b64aeaa6e78670205de",		"size":3665},
+			{"resFile":"HeadIcon.png",		"digest":"9de61aae23bd17d9b45f288b910a6539",		"size":2118},
+			{"resFile":"hitBlock.mp3",		"digest":"550d473c04b600279fdead9b5c9e2c2d",		"size":3160},
+			{"resFile":"hitNoDamage.mp3",		"digest":"6e13411a6e1b9d8dd40babea4b7a4a93",		"size":3787},
+			{"resFile":"hitTank.mp3",		"digest":"fab88ab148ba44c470bf2efd762c13d4",		"size":3369},
+			{"resFile":"itemShow.mp3",		"digest":"9d093578e48200c89b3fc3fef6e6b8e0",		"size":7757},
+			{"resFile":"Jet.mp3",		"digest":"3704627675039657c6bef6f2a8fcb99b",		"size":10112},
+			{"resFile":"JetDropItem.mp3",		"digest":"3baf9f78d7a5adc1d8d3b9af3f945b56",		"size":11209},
+			{"resFile":"jiasu09.png",		"digest":"48526bef8f6ec4c4f10bd545497d8d06",		"size":17988},
+			{"resFile":"LogoBg.mp3",		"digest":"07beada48bcdf22922fd13cd21e6a496",		"size":135156},
+			{"resFile":"LOGOUI.png",		"digest":"11d4dc2ce827feddce650fccca1a37e1",		"size":269853},
+			{"resFile":"loseMusic.mp3",		"digest":"0cfbb3e2325d0f3c9cc1647c490f0ae1",		"size":24162},
+			{"resFile":"MapItem.png",		"digest":"d4be396c497e764f2bd06550fa444915",		"size":24883},
+			{"resFile":"New_Logo_tuji.png",		"digest":"6617650ec67a7d0897deaedae1a6e193",		"size":251341},
+			{"resFile":"NumFnt_0.png",		"digest":"a3f75ee123cf41b43e01ed9e39cca58b",		"size":989},
+			{"resFile":"pickUpItem.mp3",		"digest":"90611cbf19760c4dd9fbf13b902f3200",		"size":12276},
+			{"resFile":"PlayerDie.mp3",		"digest":"73eceae5989ffd1abcc16a7be1f63a5b",		"size":8175},
+			{"resFile":"preGameBg.mp3",		"digest":"684663079d737314ed276e0fc7859ffb",		"size":34219},
+			{"resFile":"preLogoBg.mp3",		"digest":"bf0deed4150faf51a1faf050a346c4a9",		"size":15934},
+			{"resFile":"PVPMakeTeam.png",		"digest":"24701e8869c6987bac02704c41e0fd36",		"size":139669},
+			{"resFile":"QunRank.png",		"digest":"bcf27a814e3a3e7e729a93b4b6813ee5",		"size":14863},
+			{"resFile":"SettlementNotCompress.png",		"digest":"f476ddde39f61a90bb0a70c4f6222f7c",		"size":197151},
+			{"resFile":"SettlementUI.png",		"digest":"20aa5cc1e789685876035c807e0a41be",		"size":43726},
+			{"resFile":"shootBullet.mp3",		"digest":"7797b40f92fa748fa1566b4c1c64f4b5",		"size":2870},
+			{"resFile":"shoutdown.mp3",		"digest":"4fbed531cf0a74f6ed72d247c9de7db5",		"size":23906},
+			{"resFile":"StartGame.mp3",		"digest":"521198cfa72748ebeb60a73fe4a6dc84",		"size":9847},
+			{"resFile":"studioBg.mp3",		"digest":"99ca6b432a0a52a184681a87b87ecf93",		"size":29541},
+			{"resFile":"tankBorn.mp3",		"digest":"60edcb2d2faea0342fe0f1d0532a0b79",		"size":17610},
+			{"resFile":"tenCountDown.mp3",		"digest":"eb86a9d2a7bf98f590d86d9aab448912",		"size":78501},
+			{"resFile":"winMusic.mp3",		"digest":"d40f010172b0f0372ef610473f275bc4",		"size":45556}
+			],
+		"andpay":0,
+		"iospay":0,
+		"EffPAvgFPS":30,
+		"EffPRangeH":40,
+		"EffPRangeL":25,
+		"EffPRangeMMin":20,
+		"EffPRangeMMax":40,
+		"LogoUIShareShow":1,
+		"AutoGameShow":0,
+		"AutoGameOpenTime":"2017/11/20 20:21:12",
+		"AutoGameCloseTime":"2027/11/20 20:21:12",
+		"ActivityShow":0,
+		"ActivityOpenTime":"2017/11/20 20:21:12",
+		"ActivityCloseTime":"2027/11/20 20:21:12",
+		"tankshareurl":"https://cdn.bt.qq.com/Config/Release/pic/TankShare_0.png",
+		"sharerankurl":"https://cdn.bt.qq.com/Config/Release/pic/ShareRank.png",
+		"inviteshareurl":"https://cdn.bt.qq.com/Config/Release/pic/InviteShare.png",
+		"tanksharetips":"“欢乐对战，火力全开”，点击进入，和我一起对战吧！",
+		"shareranktips":"一炮绝杀，谁与争锋！",
+		"shareRecordtips":"本局玩家战力排行榜在此，看看你排第几",
+		"invitesharetips":"有一个超好玩的坦克游戏，快来一起玩吧！",
+		"rightsharetips":"欢乐坦克大战",
+		"server":[
+				
+				{
+					"worldid":2,
+					"name":"test2",
+					"replysvr": [
+									{
+										"url":"wss://test2.bt.qq.com/rs",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"wss://test2.bt.qq.com/zs",
+										"other":""
+									}
+								]
+				},
+
+				{
+					"worldid":1,
+					"name":"test1",
+					"replysvr": [
+									{
+										"url":"wss://test1.bt.qq.com/rs/10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"wss://test1.bt.qq.com/zs/20001",
+										"other":""
+									}
+								]
+				},
+
+				
+				{
+					"worldid":3,
+					"name":"alexfang",
+					"replysvr": [
+									{
+										"url":"ws://10.123.13.48:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.123.13.48:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":4,
+					"name":"jerrykong",
+					"replysvr": [
+									{
+										"url":"ws://10.125.58.139:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.125.58.139:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":5,
+					"name":"bintang",
+					"replysvr": [
+									{
+										"url":"ws://10.123.25.45:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.123.25.45:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":6,
+					"name":"matthewmma",
+					"replysvr": [
+									{
+										"url":"ws://10.123.11.114:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.123.11.114:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":7,
+					"name":"adolphsun",
+					"replysvr": [
+									{
+										"url":"ws://10.125.58.137:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.125.58.137:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":8,
+					"name":"haifeng",
+					"replysvr": [
+									{
+										"url":"ws://10.125.48.198:10001",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://10.125.48.198:20001",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":9,
+					"name":"test4",
+					"replysvr": [
+									{
+										"url":"wss://test4.bt.qq.com/rs",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"wss://test4.bt.qq.com/zs",
+										"other":""
+									}
+								]
+				},
+				{
+					"worldid":10,
+					"name":"test5",
+					"replysvr": [
+									{
+										"url":"ws://test5.bt.qq.com/rs",
+										"other":""
+									}
+								],
+					"zonesvr": [
+									{
+										"url":"ws://test5.bt.qq.com/zs",
+										"other":""
+									}
+								]
+				}
+		]
+
+}
