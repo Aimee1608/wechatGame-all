@@ -1,0 +1,24 @@
+{
+  "name": "wxgame_xxl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "webpack": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junqing258/wxgame_xxl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junqing258/wxgame_xxl/issues"
+  },
+  "homepage": "https://github.com/junqing258/wxgame_xxl#readme"
+}

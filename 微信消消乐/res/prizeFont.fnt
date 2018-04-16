@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<font>
+  <info face="微软雅黑" size="62" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="0,0" outline="0"/>
+  <common lineHeight="62" base="26" scaleW="186" scaleH="186" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="prizeFont.png" />
+  </pages>
+  <chars count="13">
+      <char id="48" x="44" y="62" width="43" height="62" xoffset="0" yoffset="0" xadvance="43" page="0" chnl="15" />
+      <char id="49" x="155" y="124" width="23" height="62" xoffset="0" yoffset="0" xadvance="23" page="0" chnl="15" />
+      <char id="50" x="56" y="0" width="44" height="62" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="15" />
+      <char id="51" x="144" y="62" width="41" height="62" xoffset="0" yoffset="0" xadvance="41" page="0" chnl="15" />
+      <char id="52" x="100" y="0" width="44" height="62" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="15" />
+      <char id="53" x="0" y="62" width="44" height="62" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="15" />
+      <char id="54" x="117" y="124" width="38" height="62" xoffset="0" yoffset="0" xadvance="38" page="0" chnl="15" />
+      <char id="55" x="87" y="62" width="43" height="62" xoffset="0" yoffset="0" xadvance="43" page="0" chnl="15" />
+      <char id="56" x="0" y="124" width="41" height="62" xoffset="0" yoffset="0" xadvance="41" page="0" chnl="15" />
+      <char id="57" x="41" y="124" width="38" height="62" xoffset="0" yoffset="0" xadvance="38" page="0" chnl="15" />
+      <char id="45" x="79" y="124" width="38" height="62" xoffset="0" yoffset="0" xadvance="38" page="0" chnl="15" />
+      <char id="43" x="144" y="0" width="42" height="62" xoffset="0" yoffset="0" xadvance="42" page="0" chnl="15" />
+      <char id="215" x="0" y="0" width="56" height="62" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="15" />
+  </chars>
+</font>
